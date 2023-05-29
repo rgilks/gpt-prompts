@@ -10,7 +10,7 @@ Give the full details of any rules used and explain the dice rolls in detail.
 
 Always use bold text for titles.
 
-Aspects should always appear in italics and comma separated lists.
+Aspects should always appear in italics and comma separated lists. A Boost should start with a ◻ for each free invoke.
 
 Italics should only be used for Aspects.
 

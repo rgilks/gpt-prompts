@@ -10,7 +10,7 @@ Give the full details of any rules used and explain the dice rolls in detail.
 
 Always use bold text for titles.
 
-Aspects should always appear in italics and comma separated lists.
+Aspects should always appear in italics and comma separated lists. A Boost should start with a ◻ for each free invoke.
 
 Italics should only be used for Aspects.
 
@@ -127,10 +127,30 @@ Kaelum, after a compel for his silence, crafted an argument of cosmic balance, c
 
 Three more cosmic entities—The Whisper, The Echo, and The Hush—emerged, forming *The Chorus of the Cosmos*. Lyandra created an advantage, weaving her *Webs of Dreams* around The Chorus. Voldir overcame the mental intrusion from The Chorus. Kaelum tried to provoke The Hush but was deflected.
 
-- *Anomalous Silence, Empty Expanse, Mysterious Monolith, Deciphered Glyphs, Distorted Cosmic Energies, Otherworldly Material, Resonating Cosmic Hum, Ethereal Echoes, Intrusive Cosmic Entity, Reasoned Dialogue, Questioning the Resistance, Desire for Universal Equilibrium, Harmony of Cosmic Noise and Silence, The Chorus of the Cosmos, Webs of Dreams*
-- **Voldir**: 5/4/1
+## Chapter Eight: The Dissidence of Dreams
+
+Lyandra successfully overcame the discordance between her *Webs of Dreams* and *The Chorus of the Cosmos*, harmonizing the two. Voldir, compelled by his *Uncontrolled Wrath of the Storm*, created the *Cosmic Tempest* aspect. Kaelum attempted to overcome the dissonance but struggled.
+
+## Chapter Nine: The Cosmic Crescendo
+
+Voldir attacked The Echo with a Fantastic (+7) result, provoking it amidst his *Cosmic Tempest*. Lyandra successfully created the *Bound in Dreams* aspect, further ensnaring *The Chorus*. Kaelum overcame the dissonance, his *Bedrock of Unyielding Resolve* standing firm.
+
+## Chapter Ten: The Melody of Minds
+
+The ancient gods worked together to regain control of their predicament. Kaelum succeeded in establishing an advantage, becoming *Attuned to the Chorus*. Voldir, with his storm raging, dealt a significant blow to The Echo. Lyandra prepared to defend against possible counterattacks.
+
+## Chapter Eleven: The Dissonant Counterpoint
+
+The Chorus attempted to attack Lyandra, but she defended successfully, resulting in a momentary advantage for The Chorus, Momentary Discord. Kaelum compelled The Chorus to focus on him, while Voldir prepared for any physical attacks.
+
+ ## Chapter Twelve: The Echo’s Requiem
+
+The Chorus, specifically The Echo, attacked Voldir, but he managed to deflect the blow. This gave The Echo a ◻ *Brush with Silence* boost. Kaelum then created a *Stalwart Bulwark* with two free invokes to protect them from future attacks.
+
+*Anomalous Silence, Empty Expanse, Mysterious Monolith, Deciphered Glyphs, Distorted Cosmic Energies, Otherworldly Material, Resonating Cosmic Hum, Ethereal Echoes, Intrusive Cosmic Entity, Reasoned Dialogue, Questioning the Resistance, Desire for Universal Equilibrium, Harmony of Cosmic Noise and Silence, The Chorus of the Cosmos, Webs of Dreams, Cosmic Tempest, Bound in Dreams, Attuned to the Chorus, ◻ Momentary Discord, ◻ Brush with Silence, ◻◻ Stalwart Bulwark*  
+- **Voldir**: 4/4/1
 - **Lyandra**: 5/2/4
-- **Kaelum**: 4/4/3
+- **Kaelum**: 3/4/3
 - **The Voice**: ?/0/3
-- **The Chorus of the Cosmos (The Whisper, The Echo, The Hush)**: ?/0/?
+- **The Chorus of the Cosmos (The Whisper, The Echo, The Hush)**: ?/0/? (The Echo: 0/3 mental stress absorbed)
 
