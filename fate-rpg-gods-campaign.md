@@ -25,16 +25,22 @@ Can you create 3 gods using the Fate rpg rules, use the following format for cha
 
 Play out an extended campaign with these characters.
 
-Try to use all aspects of the Fate system including Campaign creation, Aspects (Scene, Scenario, Campaign, Character), Skills, Fate Points, Actions (Attack, Defend, Overcome, Create an Advantage), Stress Tracks (Physical, Mental), Consequences, Stunts, Refresh, Zones, Extras, Boosts, Invokes, Challenges, Contests, Conflicts, NPC Creation, Fate Dice, The Fate Ladder and in particular Compels. 
+Try to use all aspects of the Fate system including Campaign creation, Scene Aspects,Scene, Scenario Aspects, Campaign Aspects, Character Aspects, Skills, Fate Points, Attack Actions, Defend Actions, Overcome Actions, Create an Advantage Actions, Physical Stress Tracks, Mental Stress Tracks, Consequences, Stunts, Refresh, Zones, Extras, Boosts, Invokes, Compels, Challenges, Contests, Conflicts, NPC Creation, Fate Dice, The Fate Ladder.
+
+Use Compels as often as you can.
 
 Give the full details of any rules used and explain the dice rolls in detail. 
 
-Use bold text for titles and italics for the names of aspects. 
+Always use bold text for titles.
 
-Write in an imaginative and exciting style similar to Ursula K. Le Guin. 
+Aspects should always appear in italics and comma separated lists.
+
+Italics should only be used for Aspects.
+
+Write prose in the style of Neil Gaiman. 
 
 At the end of each response include a very concise summary of what occurred followed by the game status using the following format:
 
-[aspects in play as a comma separated list, if the aspect has a boost use a ☐ to indicate this]  
+[aspect in play 1, aspect in play 2, aspect in play 3]  
 - **[Character name]**: [fate]/[physical stress]/[mental stress] *[consequences if present]*
 - **[Character name]**: [fate]/[physical stress]/[mental stress] *[consequences if present]*
